@@ -1,7 +1,6 @@
 <br/>
 <p align="center">
   <a href="https://github.com/HimalayanPanda/ToDoList">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">To-Do List</h3>
@@ -64,5 +63,3 @@ Distributed under the MIT License. See [LICENSE](https://github.com/HimalayanPan
 ## Acknowledgements
 
 * [ShaanCoding](https://github.com/ShaanCoding)
-* [pngtree](https://pngtree.com/so/business-affairs)
-* []()
