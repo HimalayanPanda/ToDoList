@@ -15,8 +15,6 @@
   </p>
 </p>
 
-![Downloads](https://img.shields.io/github/downloads/HimalayanPanda/ToDoList/total) ![Issues](https://img.shields.io/github/issues/HimalayanPanda/ToDoList) ![License](https://img.shields.io/github/license/HimalayanPanda/ToDoList) 
-
 ## About The Project
 
 ![Screen Shot](images/screenshot.png)
